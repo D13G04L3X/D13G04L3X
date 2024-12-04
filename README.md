@@ -52,8 +52,6 @@
   <!-- Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="g-suite logo" />
   <img width="12" />
   
@@ -61,7 +59,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="40" alt="SAP logo" />
 
   <!-- Audit Command Language (ACL) -->
-  <img src="https://www.auditcommandlanguage.com/wp-content/themes/acl/assets/images/favicon.ico" height="40" alt="ACL logo" />
+  <img src="https://www.softwareseleccion.com/logos/3/1/8/logo_software_acl_analytics_3813.jpg" height="40" alt="ACL logo" />
 
   <!-- Stack MEAN -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
@@ -69,9 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
 
   <!-- Otras herramientas específicas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg" height="40" alt="robotics logo" />
-  <img width="12" />
-  <img src="https://www.auditcommandlanguage.com/wp-content/themes/acl/assets/images/favicon.ico" height="40" alt="ACL logo" />
 </div>
 
 ###
